@@ -1,1 +1,1 @@
-optimization_mode=balanced
+optimization_mode=power-saving
